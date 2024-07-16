@@ -1,12 +1,11 @@
 {
   "name": "frontend-project-44",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[![Actions Status](https://github.com/Sizikov-Ilya/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Sizikov-Ilya/frontend-project-44/actions)",
   "main": "index.js",
   "bin": {
     "brain-games": "bin/brain-games.js"
-   
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,6 +22,7 @@
   },
   "homepage": "https://github.com/Sizikov-Ilya/frontend-project-44#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "readline-sync": "^1.4.10"
   }
 }
