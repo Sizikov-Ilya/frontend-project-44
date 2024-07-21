@@ -29,6 +29,4 @@ const startEvenGame = () => {
   console.log(`Congratulations, ${name}!`);
 };
 
-startEvenGame();
-
 export default startEvenGame;
