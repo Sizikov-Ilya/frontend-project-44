@@ -10,3 +10,6 @@ https://asciinema.org/a/669026
 
 ## Игра НОД
  https://asciinema.org/a/669034
+
+## Игра Арифметическая прогрессия
+ https://asciinema.org/a/669056
