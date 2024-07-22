@@ -13,3 +13,6 @@ https://asciinema.org/a/669026
 
 ## Игра Арифметическая прогрессия
  https://asciinema.org/a/669056
+
+## Игра Простое ли число?
+ https://asciinema.org/a/669140
