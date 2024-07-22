@@ -2,7 +2,7 @@
   "name": "@hexlet/code",
   "type": "module",
   "version": "1.0.1",
-  "description": "[![Actions Status](https://github.com/Sizikov-Ilya/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Sizikov-Ilya/frontend-project-44/actions)",
+  "description": "Игры разума — это набор из пяти консольных игр. В каждой игре пользователю задаются вопросы, на которые нужно правильно ответить.",
   "main": "index.js",
   "bin": {
     "brain-games": "bin/brain-games.js",
@@ -31,11 +31,8 @@
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
-    "@eslint/create-config": "^1.0.0",
-    "@eslint/js": "^9.7.0",
     "eslint": "^8.57.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.29.1",
-    "globals": "^15.8.0"
+    "eslint-plugin-import": "^2.29.1"
   }
 }
