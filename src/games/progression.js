@@ -1,5 +1,13 @@
 import runGame from '../index.js';
-import { getRandomInt, generateProgression } from '../utils.js';
+import getRandomInt from '../utils.js';
+
+const generateProgression = (start, step, length) => {
+  const progression = [];
+  for (let i = 0; i < length; i += 1) {
+    progression.push(start + i * step);
+  }
+  return progression;
+};
 
 const description = 'What number is missing in the progression?';
 
